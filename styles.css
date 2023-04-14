@@ -1,0 +1,12 @@
+body	{font-family: optima;
+		text-align: center;
+		background-color: #A98351;
+		color: beige;}
+
+h1	{text-transform: uppercase;
+	font-size: 100px;}
+
+a	{color: beige;
+	text-decoration: none;}
+	
+a:hover	{text-decoration: underline;}
