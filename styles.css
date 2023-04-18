@@ -1,12 +1,51 @@
 body	{font-family: optima;
 		text-align: center;
 		background-color: #A98351;
-		color: beige;}
+		color: #FFF2DD;}
 
 h1	{text-transform: uppercase;
 	font-size: 100px;}
+	
+h2 {text-transform: uppercase;
+	font-size: 45px;}
+	
+h3	{text-transform: uppercase;}
 
-a	{color: beige;
+a	{color: #FFF2DD;
 	text-decoration: none;}
 	
 a:hover	{text-decoration: underline;}
+
+p	{text-align: left;}
+
+table	{width: 65%;
+		margin-left: auto; 
+		margin-right: auto;
+		border-color: #574834;
+		border-style: ridge;
+		border-width: 10px;
+		background-color: #FFF2DD;
+		color: #A98351}
+
+th		{color: #574834; 
+		background-color: #574834;}
+
+tr.stripe	{background-color: #574834;}
+	 
+td.bolder	{font-weight: bold;}
+
+li {text-transform: capitalize;
+	text-align: left;}
+	
+cap {text-align: center;
+	font-style: italic;}
+	
+
+img:hover.link	{box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+				opacity: 0.6;}
+			
+
+
+
+
+	
